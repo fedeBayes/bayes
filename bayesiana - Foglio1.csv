@@ -1,6 +1,0 @@
-approssimazionenormale,"Voglio approssimare la posterior π(θ|x) con una normale. I parametri necessari saranno quindi media e varianza (come capisco se vanno bene?).
-Sotto condizioni di regolarità la posterior può essere approssimata con una normale ∼ N ( θ̃, Σ̃), dove θ̃ è il punto di massimo della posterior, cioè la moda della posterior e Σ̃ ha come elementi quelli della matrice inversa con il generico elemento j ed è calcolato come segue: derivata seconda della logposteriori rispetto a theta.Questo calcolo porterebbe all’informazione osservata se fosse una funzione di verosimiglianza in θ punto di massimo.
-θ̃ corrisponde come già visto alla moda della posterior, cioè il valore di θ che rende massima la posterior:
-- voglio massimizzare la posterior.
-- valutare le derivate seconde in corrispondenza di θ̃. "
-CSHPD,"CREDIBLE SETS: Fissa una probabilità alpha che vada ad individuare due quantili (theta_{alpha/2}, theta_{1-alpha/2}) dato che theta è una distribuzione."
